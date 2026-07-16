@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
