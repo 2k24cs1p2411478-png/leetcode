@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
