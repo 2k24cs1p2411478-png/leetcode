@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
