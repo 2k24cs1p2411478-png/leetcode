@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1550-three-consecutive-odds](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
