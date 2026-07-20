@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -97,6 +99,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
