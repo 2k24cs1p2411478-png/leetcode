@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1550-three-consecutive-odds](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
