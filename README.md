@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
