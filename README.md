@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1446-consecutive-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1446-consecutive-characters) |
