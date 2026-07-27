@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
 | [2236-root-equals-sum-of-children](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
 | [2236-root-equals-sum-of-children](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
