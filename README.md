@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
