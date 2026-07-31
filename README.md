@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0257-binary-tree-paths) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
