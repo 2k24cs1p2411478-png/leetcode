@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
