@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0655-print-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
