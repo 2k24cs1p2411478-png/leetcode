@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
