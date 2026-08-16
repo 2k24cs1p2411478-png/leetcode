@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -289,4 +293,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
