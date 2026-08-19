@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
