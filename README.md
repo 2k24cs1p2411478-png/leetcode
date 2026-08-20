@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
