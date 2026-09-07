@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
