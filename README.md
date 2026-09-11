@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
