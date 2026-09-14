@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1386-cinema-seat-allocation](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
