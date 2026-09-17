@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
