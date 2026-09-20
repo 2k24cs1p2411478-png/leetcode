@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3498-reverse-degree-of-a-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
