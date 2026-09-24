@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0994-rotting-oranges) |
 ## Pigeonhole Principle
 |  |
 | ------- |
