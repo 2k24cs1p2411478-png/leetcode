@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3731-find-missing-elements) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
