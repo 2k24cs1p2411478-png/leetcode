@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0182-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1873-calculate-special-bonus) |
 ## Design
 |  |
