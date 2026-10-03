@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -430,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0020-valid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
