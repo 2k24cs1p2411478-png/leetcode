@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1484-group-sold-products-by-the-date](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1789-primary-department-for-each-employee](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1789-primary-department-for-each-employee) |
