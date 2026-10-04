@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0620-not-boring-movies) |
