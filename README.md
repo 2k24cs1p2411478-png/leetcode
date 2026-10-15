@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2540-minimum-common-value](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
