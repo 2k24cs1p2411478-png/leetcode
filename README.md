@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting Sort
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0994-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -446,10 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Bracket Sequences
 |  |
 | ------- |
