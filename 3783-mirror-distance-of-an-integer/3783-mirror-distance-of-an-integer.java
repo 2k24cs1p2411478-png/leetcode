@@ -1,12 +1,17 @@
 class Solution {
     public int mirrorDistance(int n) {
         int original = n;
-        int rev = 0;
-        while(n != 0){
-          int digit = n % 10;       
-            rev = rev * 10 + digit;   
-            n = n / 10; 
+        int reverse =0;
+
+        while(n!=0){
+            reverse = reverse*10 + n%10;
+            n = n/10;
         }
-        return Math.abs(rev - original);
+        int output = original - reverse;
+        if (output > 0){
+            return output;
+        }else{
+            return output* -1;
+        }
     }
 }
