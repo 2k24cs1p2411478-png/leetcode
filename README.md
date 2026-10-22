@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0260-single-number-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
