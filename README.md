@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1486-xor-operation-in-an-array) |
