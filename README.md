@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2540-minimum-common-value](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2540-minimum-common-value) |
+| [2614-prime-in-diagonal](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2614-prime-in-diagonal](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2614-prime-in-diagonal](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
