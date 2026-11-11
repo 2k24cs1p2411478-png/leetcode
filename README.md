@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0896-monotonic-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/2k24cs1p2411478-png/leetcode/tree/master/0989-add-to-array-form-of-integer) |
